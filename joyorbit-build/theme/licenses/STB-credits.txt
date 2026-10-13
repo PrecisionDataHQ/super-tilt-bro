@@ -1,0 +1,14 @@
+Super Tilt Bro 2.6 by Sylvain Gadrat. JoyOrbit builds the no-network UNROM mapper 2 variant. Code and repository material: WTFPL, with separately identified third-party content retaining its own licence. Original in-game credits remain.
+
+Music:
+Adventure, Sinbad, Volcano and Spirit of Chivalry by Kilirane: CC-BY as stated in source metadata.
+Super Tilt Bro title/characters, Kiki and Pepper themes by Tuï: CC-BY as stated in source metadata.
+Fusolis by LemonyBard / Liam Zaffora-Reeder: CC BY 4.0, explicitly stated in theme_fusolis.txt.
+I Like Jump Rope by Ozzed, from 8-bit Empire: CC BY-SA 3.0, https://ozzed.net/music/8-bit-empire.shtml .
+Perihelium by Ozzed, from 8-bit Run 'n Pun: CC BY-SA 3.0, https://ozzed.net/music/8-bit-run-and-pun.shtml .
+The CC BY-SA licence/version is linked by those album pages. The game's arrangements retain CC BY-SA 3.0; their source is mirrored with the game.
+
+JoyOrbit omits A Sagely Concerto because the pinned metadata states copyright but no specific licence grant; it reuses Fusolis at that selection. The jukebox label is changed to Fusolis Reprise. No supporter pack or network ROM is bundled.
+
+Graphics: Casual Cart, Fawzi Zaidi, Fei, Margarita Gadrat and Martin Le Borgne; see the original in-game credits. Kiki by Tyson Tan, Pepper by David Revoy and Sinbad by Stéphane Gigandet are credited in the game. Detailed character/asset licence review remains a release gate.
+Source: https://github.com/PrecisionDataHQ/super-tilt-bro ; pinned upstream a0b25e56ec8bde7bea623573b76343fdd3d584bc .
